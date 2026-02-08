@@ -1,8 +1,8 @@
 """
 MATH20621 - Coursework 3
 Student name: Matthew Crean
-Student id: 11093712
-Student mail: matthew_crean@student.manchester.ac.uk
+Student id: 
+Student mail: 
 """
 
 def request_location(question_str):
@@ -364,5 +364,6 @@ def play_game():
 
 def main():
     play_game()
+
 
 main()
