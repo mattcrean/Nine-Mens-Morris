@@ -1,2 +1,5 @@
 # Nine Men's Morris
-For my final project in my second year module, 'Programming with Python', we were asked to make a working game of Nine Men's Morris. I achieved a grade of 94% on this project.
+
+This repository contains a fully playable console-based implementation of the board game Nine Men’s Morris, written in Python as an assessed university coursework, on which I achieved a grade of 94%.
+
+The project focuses on state-based game logic, rule enforcement, and robust input handling.
